@@ -1,0 +1,36 @@
+body {        
+    font-family: 'Oswald';
+    background-color: #87919B;
+}
+
+.center {
+      background-color: white;
+      width: 240px;
+      height: 650px;
+      box-sizing: border-box;
+      margin: auto;
+      padding: 15px;
+      border-radius: 5px;
+      
+}
+.submit {
+    background-color: green;
+    color: white;
+    height: 22px;
+    font-size: 9px;
+    padding: 0px 20px 0px 20px;
+    position: relative;
+    margin-right: 3px;
+    border: 0px;
+  }
+.reset {
+    background-color: red;
+    color: white;
+    height: 22px;
+    font-size: 9px;
+    padding: 0px 20px 0px 20px;
+    border: 0px;
+}
+.resize {
+    width: 200px;
+}
